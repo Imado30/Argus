@@ -13,6 +13,13 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docker.com)
 
+<p align="center">
+  <a href="docs/media/argus-demo.mp4">
+    <img src="docs/media/argus-demo.gif" width="720" alt="Argus demo with secret detection in a prompt, the command center, slopsquatting checks and the compliance view">
+  </a>
+  <br>
+  <sub>Click the preview for the video in full quality (MP4)</sub>
+</p>
 
 ---
 
